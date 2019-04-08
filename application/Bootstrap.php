@@ -71,7 +71,7 @@ class Bootstrap extends \Yaf\Bootstrap_Abstract
 
 	/**
 	 * 路由
-	 ×　@param \Yaf\Dispatcher $dispatcher
+	 *　@param \Yaf\Dispatcher $dispatcher
 	 */
 	public function _initRoute (\Yaf\Dispatcher $dispatcher)
 	{
